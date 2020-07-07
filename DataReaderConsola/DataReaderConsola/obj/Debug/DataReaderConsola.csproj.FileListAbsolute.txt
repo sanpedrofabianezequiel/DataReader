@@ -1,0 +1,7 @@
+C:\Users\Ezequiel\source\repos\DataReaderConsola\DataReaderConsola\bin\Debug\DataReaderConsola.exe.config
+C:\Users\Ezequiel\source\repos\DataReaderConsola\DataReaderConsola\bin\Debug\DataReaderConsola.exe
+C:\Users\Ezequiel\source\repos\DataReaderConsola\DataReaderConsola\bin\Debug\DataReaderConsola.pdb
+C:\Users\Ezequiel\source\repos\DataReaderConsola\DataReaderConsola\obj\Debug\DataReaderConsola.csprojAssemblyReference.cache
+C:\Users\Ezequiel\source\repos\DataReaderConsola\DataReaderConsola\obj\Debug\DataReaderConsola.csproj.CoreCompileInputs.cache
+C:\Users\Ezequiel\source\repos\DataReaderConsola\DataReaderConsola\obj\Debug\DataReaderConsola.exe
+C:\Users\Ezequiel\source\repos\DataReaderConsola\DataReaderConsola\obj\Debug\DataReaderConsola.pdb
